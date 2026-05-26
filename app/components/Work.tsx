@@ -26,17 +26,17 @@ const projects = [
     desc: "Catches bugs, spots security risks and gives your code the reality check you didnt know you needed.",
     stack: ["React", "Node.js"],
     note: "open source",
-    href: "#", // replace with your project URL
+    href: "https://github.com/k-Yashika/ai-powered-code-review-assistant",
     color: "from-violet-400/20 to-fuchsia-500/10",
   },
   {
     n: "04",
-    title: "MacBook Pro Website Recreations",
+    title: "iPhone 15 Pro Website Recreations",
     tag: "coolest animations and 3D stuff",
     desc: "built to capture Apple’s sleek style, smooth animations, and that unmistakable “I want one” feeling.",
     stack: ["Three.js", "React", "GSAP"],
     note: "open source",
-    href: "#", // replace with your project URL
+    href: "https://kyashika-apple-clone.vercel.app/",
     color: "from-emerald-400/20 to-teal-500/10",
   },
 ];
